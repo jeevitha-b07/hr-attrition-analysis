@@ -19,6 +19,27 @@ This project analyzes employee attrition patterns using Power BI to identify the
 
 The dataset used in this project was obtained from Kaggle and is used for learning and analytical purposes.
 
+## Dataset Features
+
+The analysis was performed using employee demographic, compensation, performance, and satisfaction-related attributes, including:
+
+- Age
+- Age Group
+- Attrition
+- Business Travel
+- Department
+- Education Field
+- Gender
+- Job Role
+- Job Level
+- Job Satisfaction
+- Environment Satisfaction
+- Marital Status
+- Salary Slab
+- Overtime
+- Years Since Last Promotion
+
+
 ## Key Performance Indicators (KPIs)
 
 - Total Employees: 1,480

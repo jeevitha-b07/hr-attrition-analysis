@@ -12,7 +12,7 @@ This project analyzes employee attrition patterns using Power BI to identify the
 
 - Power BI
 - DAX (Data Analysis Expressions)
-- Microsoft Excel (Data Validation and Basic Data Cleaning)
+- Microsoft Excel (Data Cleaning)
 
 ---
 ## Dataset Source

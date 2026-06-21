@@ -57,9 +57,9 @@ The analysis was performed using employee demographic, compensation, performance
 ![HR Attrition Dashboard](screenshots/attrition-analysis.png)
 
 ### HR Attrition Dashboard
-## Project Files
 
-- 📊 [Power BI Dashboard](dashboard/hr_attrition_analysis.pbix)
+
+📊 [Power BI Dashboard](dashboard/hr_attrition_analysis.pbix)
 
 
 
@@ -87,7 +87,7 @@ Interactive slicers:
 
 ## Key Insights
 
-- The organization has an overall attrition rate of **16.08%**.
+- The organization has an overall attrition rate of **16.08%** 
 
 - Male employees account for a higher share of attrition compared to female employees.
 

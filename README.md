@@ -15,6 +15,9 @@ This project analyzes employee attrition patterns using Power BI to identify the
 - Microsoft Excel (Data Validation and Basic Data Cleaning)
 
 ---
+## Dataset Source
+
+The dataset used in this project was obtained from Kaggle and is used for learning and analytical purposes.
 
 ## Key Performance Indicators (KPIs)
 
@@ -22,7 +25,7 @@ This project analyzes employee attrition patterns using Power BI to identify the
 - Attrition Count: 238
 - Attrition Rate: 16.08%
 - Average Salary: 6.50K
-- Average Age: 36.92 Years
+- Average Age: 36.92 
 - Average Tenure: 7.01 Years
 
 ---

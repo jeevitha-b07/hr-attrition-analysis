@@ -53,15 +53,16 @@ The analysis was performed using employee demographic, compensation, performance
 
 ## Dashboard Screenshot
 
+
+![HR Attrition Dashboard](screenshots/attrition-analysis.png)
+
 ### HR Attrition Dashboard
+## Project Files
 
-![HR Attrition Dashboard](HR-Attrition-Dashboard.png)
+- 📊 [Power BI Dashboard](dashboard/hr_attrition_analysis.pbix)
 
----
 
-## Power BI Dashboard
 
-### HR_Attrition_Analytics.pbix
 
 The Power BI dashboard includes:
 
